@@ -73,8 +73,4 @@
 
 ### :fire: My Stats :
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Architech-IT-Solutions&show_icons=true)](https://github.com/Architech-IT-Solutions)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Architech-IT-Solutions)](https://github.com/Architech-IT-Solutions)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmilsonSilva)](https://github.com/EdmilsonSilva/EdmilsonSilva)
